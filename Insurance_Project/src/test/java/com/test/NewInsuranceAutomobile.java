@@ -32,7 +32,7 @@ public class NewInsuranceAutomobile extends Utilities {
 	public void tearDown() {
 
 		driver.close();
-		System.out.println("test");
+		System.out.println("test123");
 
 	}
 

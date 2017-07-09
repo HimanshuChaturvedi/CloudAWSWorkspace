@@ -1,0 +1,25 @@
+<productData>
+<AutomobileProductAudi>
+<StartDate>08/025/2017</StartDate>
+<InsuranceSum>5.000.000,00</InsuranceSum>
+<MeritRating>Malus 10</MeritRating>
+<DamageInsurance>Full Coverage</DamageInsurance>
+<CourtesyCar>Yes</CourtesyCar>
+</AutomobileProductAudi>
+
+<AutomobileProductBMW>
+<StartDate>08/01/2017</StartDate>
+<InsuranceSum>7.000.000,00</InsuranceSum>
+<MeritRating>Malus 11</MeritRating>
+<DamageInsurance>Partial Coverage</DamageInsurance>
+<CourtesyCar>No</CourtesyCar>
+</AutomobileProductBMW>
+
+
+
+
+
+
+
+
+</productData>

@@ -1,0 +1,27 @@
+<Data>
+<AutomobileSendQuoteAudi>
+<Email>Himanshu@gmail.com</Email>
+<Phone>1234567890</Phone>
+<Username>Himanshu</Username>
+<Password>password</Password>
+<ConfirmPassword>password</ConfirmPassword>
+<Comments>Hello World</Comments>
+</AutomobileSendQuoteAudi>
+
+<AutomobileSendQuoteBMW>
+<Email>Sumit@gmail.com</Email>
+<Phone>0987654321</Phone>
+<Username>Sumit</Username>
+<Password>password</Password>
+<ConfirmPassword>password</ConfirmPassword>
+<Comments>Hello World, Welcome to Java</Comments>
+</AutomobileSendQuoteBMW>
+
+
+
+
+
+
+
+
+</Data>

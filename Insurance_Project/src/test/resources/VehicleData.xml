@@ -1,0 +1,31 @@
+<Data>
+<Audi>
+<Make>Audi</Make>
+<EnginePerformance>200</EnginePerformance>
+<DateofManufacture>06/02/2017</DateofManufacture>
+<NumberofSeats>5</NumberofSeats>
+<FuelType>Diesel</FuelType>
+<ListPrice>30000</ListPrice>
+<LicensePlateNumber>UP14 HC 66676</LicensePlateNumber>
+<AnnualMileage>25000</AnnualMileage>
+</Audi>
+
+<BMW>
+<Make>BMW</Make>
+<EnginePerformance>300</EnginePerformance>
+<DateofManufacture>06/05/2017</DateofManufacture>
+<NumberofSeats>7</NumberofSeats>
+<FuelType>Electric</FuelType>
+<ListPrice>50000</ListPrice>
+<LicensePlateNumber>UP14 HC 66676</LicensePlateNumber>
+<AnnualMileage>35000</AnnualMileage>
+</BMW>
+
+
+
+
+
+
+
+
+</Data>

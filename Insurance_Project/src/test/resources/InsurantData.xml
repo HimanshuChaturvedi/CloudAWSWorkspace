@@ -1,0 +1,33 @@
+<Data>
+<AutomobileAudi>
+<FirstName>Himanshu</FirstName>
+<LastName>Chaturvedi</LastName>
+<DateofBirth>02/025/1985</DateofBirth>
+<StreetAddress>H-35,Sector 23,Sanjay Nagar</StreetAddress>
+<Country>India</Country>
+<ZipCode>201002</ZipCode>
+<City>Ghaziabad</City>
+<Occupation>Employee</Occupation>
+<Website>www.selenium.com</Website>
+</AutomobileAudi>
+
+<AutomobileBMW>
+<FirstName>Pramudit</FirstName>
+<LastName>Chaturvedi</LastName>
+<DateofBirth>02/025/1985</DateofBirth>
+<StreetAddress>H-35,Sector 23,Sanjay Nagar</StreetAddress>
+<Country>India</Country>
+<ZipCode>201002</ZipCode>
+<City>Noida</City>
+<Occupation>Farmer</Occupation>
+<Website>www.selenium.com</Website>
+</AutomobileBMW>
+
+
+
+
+
+
+
+
+</Data>
